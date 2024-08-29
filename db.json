@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Testing json",
+      "username": "Test",
+      "email": "test@gmail.com",
+      "phone": "1234567890",
+      "website": "testing.com"
+    },
+    {
+      "id": "2",
+      "name": "Testing json two",
+      "username": "Testing",
+      "email": "testing@gmail.com",
+      "phone": "1234567800",
+      "website": "test.org"
+    },
+    {
+      "id": "7488",
+      "name": "Final Test",
+      "email": "finaltest@gmail.com",
+      "phone": "5678934569"
+    },
+    {
+      "id": "e392",
+      "name": "Test Twist",
+      "email": "testingtwist132@gmail.com",
+      "phone": "9394824798"
+    }
+  ]
+}
